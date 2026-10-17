@@ -479,7 +479,7 @@ And I'd make participants confront that distinction explicitly.
 
 ---
 
-## One final methodological caution
+### One final methodological caution
 
 I would **not describe the case study as "testing whether these psychological theories are true."**
 
