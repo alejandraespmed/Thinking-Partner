@@ -1,7 +1,6 @@
-# Thinking Partner
+# Task: Run all seven moves on **one real topic that matters to you**, then publish the conversation to a public link. At minimum it should show: the opening real question, two drill-deeper turns, the ask-for-questions turn, the hypotheses turn, the calibration turn, the deep-research prompt, and the retrospective. Add a 3-line reflection on which move surprised you most. A Gist, GitHub Pages page, Notion page, published Google Doc, or any public URL will do. 
 
-Task : Run all seven moves on **one real topic that matters to you**, then publish the conversation to a public link. At minimum it should show: the opening real question, two drill-deeper turns, the ask-for-questions turn, the hypotheses turn, the calibration turn, the deep-research prompt, and the retrospective. Add a 3-line reflection on which move surprised you most. A Gist, GitHub Pages page, Notion page, published Google Doc, or any public URL will do. 
-**The prompts given to chatgpt are headlined (as heading2) in green for easier browsing as well as the 3-line reflection at the end of the exercise.**  
+**The prompts given to chatgpt are headlined for easier browsing as well as the 3-line reflection at the end of the exercise.**  
 
 ## If I was required to craft a hypothetical case-study based around a challenge faced by an organisation what would be a good scenario to showcase the many idiosyncrasies or facets of decision making
 
