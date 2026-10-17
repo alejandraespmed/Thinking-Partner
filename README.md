@@ -1,4 +1,5 @@
-# Task: Run all seven moves on **one real topic that matters to you**, then publish the conversation to a public link. At minimum it should show: the opening real question, two drill-deeper turns, the ask-for-questions turn, the hypotheses turn, the calibration turn, the deep-research prompt, and the retrospective. Add a 3-line reflection on which move surprised you most. A Gist, GitHub Pages page, Notion page, published Google Doc, or any public URL will do. 
+# Task: 
+## Run all seven moves on **one real topic that matters to you**, then publish the conversation to a public link. At minimum it should show: the opening real question, two drill-deeper turns, the ask-for-questions turn, the hypotheses turn, the calibration turn, the deep-research prompt, and the retrospective. Add a 3-line reflection on which move surprised you most. A Gist, GitHub Pages page, Notion page, published Google Doc, or any public URL will do. 
 
 **The prompts given to chatgpt are headlined for easier browsing as well as the 3-line reflection at the end of the exercise.**  
 
